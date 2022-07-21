@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b7f17ccc6ba990428f1937c460003bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Leaf: {fileID: 3709561018098111084, guid: db7bbf4f687efae488699d754613c5d0, type: 3}
+  - Mom: {fileID: 3029460350442142797, guid: b060e87fbb14928469d8b6b7627bf1c9, type: 3}
+  - FloatingDamage: {fileID: 7975435416309890586, guid: 16d13f866b0a17b469707b543c380b0d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 983c0034959bcbb458f3e2c066be5c1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Leaf: {fileID: 3709561018098111084, guid: db7bbf4f687efae488699d754613c5d0, type: 3}
+  - Mom: {fileID: 3029460350442142797, guid: b060e87fbb14928469d8b6b7627bf1c9, type: 3}
+  - FloatingDamage: {fileID: 7975435416309890586, guid: 16d13f866b0a17b469707b543c380b0d,
+      type: 3}
+  - FloatingScore: {fileID: 7975435416309890586, guid: f9de9a02f9799eb4db9887e5a2c16859,
+      type: 3}
+  - FloatingLife: {fileID: 8517759140074340517, guid: 43a127c8f2c826b44bec34e3ba13119a,
+      type: 3}
+  - FloatingNotification: {fileID: 4035325975989364336, guid: fe8df838f8182234e9b47b5a6236d318,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
